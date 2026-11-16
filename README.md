@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi, I'm John ⚡
 
-<!--
-**johnamunoz/johnamunoz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Electrical Engineering student at UTSA (Honors College). I like hands-on hardware, and lately I've been building websites and web games.
 
-Here are some ideas to get you started:
+### Projects
+- **Water Quest**: a mobile web game concept for charity: water. [Play it](https://johnamunoz.github.io/water-quest/) · [Code](https://github.com/johnamunoz/water-quest)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Learning now
+- HTML, CSS and JavaScript through the Global Career Accelerator externship
+- CAD and Autodesk
+
+### Outside class
+I work in sales and build websites for local businesses.
+
+**Connect:** [LinkedIn](https://www.linkedin.com/in/johnadenmunoz)
